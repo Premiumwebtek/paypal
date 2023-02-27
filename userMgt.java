@@ -1,6 +1,6 @@
 landmark
-simon
-dominio
+mercy
+dominion
 ayo
 obi
 manager
